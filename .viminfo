@@ -8,9 +8,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:q
-:q!
 :wq
+:q!
+:Q!
+:q
 
 # Search String History (newest to oldest):
 
@@ -21,14 +22,152 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+"1	LINE	0
+		public static void main (string[] args){
+""-	CHAR	0
+	d
 
 # File marks:
-'0  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+'0  1  16  ~/nme/test.java
+'1  3  30  ~/git/sample.java
+'2  2  26  ~/git/sample.java
+'3  1  12  ~/git/sample.java
+'4  5  0  ~/git/sample.java
+'5  5  0  ~/samp.txt
+'6  6  0  ~/summa.txt
+'7  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 
 # Jumplist (newest first):
+-'  1  16  ~/nme/test.java
+-'  3  30  ~/git/sample.java
+-'  1  0  ~/git/sample.java
+-'  2  26  ~/git/sample.java
+-'  5  0  ~/git/sample.java
+-'  5  0  ~/samp.txt
+-'  1  0  ~/samp.txt
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  5  0  ~/samp.txt
+-'  1  0  ~/samp.txt
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  5  0  ~/samp.txt
+-'  1  0  ~/samp.txt
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  5  0  ~/samp.txt
+-'  1  0  ~/samp.txt
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  5  0  ~/samp.txt
+-'  1  0  ~/samp.txt
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  5  0  ~/samp.txt
+-'  1  0  ~/samp.txt
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  5  0  ~/samp.txt
+-'  1  0  ~/samp.txt
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  5  0  ~/samp.txt
+-'  1  0  ~/samp.txt
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  5  0  ~/samp.txt
+-'  1  0  ~/samp.txt
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  6  0  ~/summa.txt
+-'  1  0  ~/summa.txt
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+-'  5  0  ~/samp.txt
+-'  3  30  ~/git/sample.java
 
 # History of marks within files (newest to oldest):
+
+> ~/nme/test.java
+	"	1	16
+	^	1	17
+	.	2	0
+	+	10	0
+	+	1	17
+	+	2	0
+
+> ~/git/sample.java
+	"	3	30
+	^	3	31
+	.	3	30
+	+	5	0
+	+	1	18
+	+	2	41
+	+	3	2
+	+	2	26
+	+	3	30
+
+> ~/samp.txt
+	"	5	0
+	^	5	1
+	.	5	0
+	+	5	0
+
+> ~/summa.txt
+	"	6	0
+	^	6	0
+	.	5	1
+	+	5	1
 
 > /var/lib/jenkins/secrets/initialAdminPassword
 	"	1	0
