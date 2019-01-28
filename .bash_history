@@ -84,3 +84,120 @@ javac sample.java
 java sample
 cd g
 exit
+git --version
+jenkins -version
+mvn -version
+git --version
+mkdir nme
+ls
+cd /nme
+cd nme
+ls
+touch test.java
+vi test.java
+javac test.java
+vi test.java
+javac test.java
+vi test.java
+javac test.java
+java test
+git status
+git add test.java
+git status
+git add -A
+git status
+git commit -m "test.java"
+git push -f origin master
+javac test.java
+java test
+ls
+git status
+git add test.java
+git staus
+git status
+ls
+git status
+git init
+git add test.java
+git status
+vi test.java
+javac test.java
+java test
+git add -A
+git status
+git commit -m "test.java"
+git remote add origin https://github.com/Rasmi20/devsam.git
+git push -f origin master
+vi test.java
+git status
+git push -f origin master
+vi test.java
+git add test.java
+git status
+vi test.java
+git status
+git commit -a
+git commit -m "changes"
+git remote add origin https://github.com/Rasmi20/devsam.git
+git push -f origin master
+javac test.java
+java test
+vi test.java
+git status
+git add -A
+git status
+git commit -m "sec"
+git remote add https://github.com/Rasmi20/devsam.git
+git push -f origin master
+vi test.java
+git add -A
+git status
+git commit -m "three"
+git remote add https://github.com/Rasmi20/devsam.git
+git push -f origin master
+git --version
+mkdir
+mkdir pipe
+ls
+cd /pipe
+cd pipe
+git init
+touch testone.java
+vi testone.java
+javac testone.java
+java testone
+git status
+git add -A
+git status
+git commit -m "first pipeline"
+git remote add https://github.com/Rasmi20/devsam.git
+git push -f origin master
+git remote add origin https://github.com/Rasmi20/devsam.git
+git push -f origin master
+touch testtwo.java
+vi testtwo.java
+javac testwo.java
+javac testtwo.java
+vi testtwo.java
+javac testtwo.java
+vi testtwo.java
+javac testtwo.java
+java testtwo
+ls
+cd pipe
+git status
+javac testtwo.java
+java testtwo
+git add -A
+git status
+git commit -m "sec pipeline"
+git remote add origin https://github.com/Rasmi20/devsam.git
+git push -f origin master
+touch testthree.java
+vi testthree.java
+javac testthree.java
+java testthree
+git add -A
+git status
+git commit -m "testthree"
+git push -f origin master
