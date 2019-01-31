@@ -28,18 +28,21 @@
 	0
 
 # File marks:
-'0  4  1  ~/pipe/testthree.java
-'1  3  14  ~/pipe/testtwo.java
-'2  1  0  ~/pipe/testtwo.java
-'3  3  33  ~/pipe/testone.java
-'4  5  17  ~/nme/test.java
-'5  1  0  ~/nme/test.java
-'6  8  33  ~/nme/test.java
-'7  6  18  ~/nme/test.java
-'8  3  30  ~/git/sample.java
-'9  2  26  ~/git/sample.java
+'0  4  4  ~/ttt/Jenkinsfile
+'1  1  23  ~/mult/Jenkinsfile
+'2  4  1  ~/pipe/testthree.java
+'3  3  14  ~/pipe/testtwo.java
+'4  1  0  ~/pipe/testtwo.java
+'5  3  33  ~/pipe/testone.java
+'6  5  17  ~/nme/test.java
+'7  1  0  ~/nme/test.java
+'8  8  33  ~/nme/test.java
+'9  6  18  ~/nme/test.java
 
 # Jumplist (newest first):
+-'  4  4  ~/ttt/Jenkinsfile
+-'  1  0  ~/ttt/Jenkinsfile
+-'  1  23  ~/mult/Jenkinsfile
 -'  4  1  ~/pipe/testthree.java
 -'  1  0  ~/pipe/testthree.java
 -'  3  14  ~/pipe/testtwo.java
@@ -136,11 +139,22 @@
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  5  0  ~/samp.txt
 -'  1  0  ~/samp.txt
--'  6  0  ~/summa.txt
--'  1  0  ~/summa.txt
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 
 # History of marks within files (newest to oldest):
+
+> ~/ttt/Jenkinsfile
+	"	4	4
+	^	4	5
+	.	4	0
+	+	4	0
+
+> ~/mult/Jenkinsfile
+	"	1	23
+	^	1	24
+	.	1	23
+	+	10	0
+	+	1	13
+	+	1	23
 
 > ~/pipe/testthree.java
 	"	4	1

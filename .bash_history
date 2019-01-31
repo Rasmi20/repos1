@@ -201,3 +201,76 @@ git add -A
 git status
 git commit -m "testthree"
 git push -f origin master
+cd g
+cd git
+la
+ls
+cd ..
+ls
+cd pipe
+ls
+git status
+cd ..
+git checkout test
+which git
+cd /usr/bin/git
+mkdir branch
+ls
+cd bran
+cd branch
+ls
+git branch -a
+git checkout -b br1
+git checkout master
+git checkout br1
+git staus
+git status
+touch jenkinsfile
+ls
+rm jenkinsfile
+touch Jenkinsfile
+git add -A
+git status
+git commit -m "Jenkinsfile"
+git push -f origin br1
+git remote add origin "https://github.com/Rasmi20/devsam.git"
+git clone https://github.com/Rasmi20/devsam.git
+git status
+git commit -m "Jenkinsfile"
+rm Jenkinsfile
+touch Jenkinsfile
+git add -A
+git status
+git commit -m "Jenkinsfile"
+git push -f origin br1
+exit
+cd ..
+ls
+exit
+mkdir mult
+cd mult
+git clone https://github.com/Rasmi20/devsam.git
+git checkout -b anch
+touch Jenkinsfile
+vi Jenkinsfile
+javac Jenkinsfile.java
+javac Jenkinsfile
+vi Jenkinsfile
+javac Jenkinsfile
+vi Jenkinsfile
+java jenkinsfile
+java Jenkinsfile
+vi Jenkinsfile
+java Jenkinsfile
+vi Jenkinsfile
+exit
+ssh 18.216.91.131
+ssh 172.17.0.1
+ssh root@172.17.0.1
+ssh 172.31.25.216
+ssh 18.216.91.131
+ssh root@18.216.91.131
+exit
+ssh 3.16.147.127
+ssh root@172.31.32.48
+exit
