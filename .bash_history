@@ -274,3 +274,42 @@ exit
 ssh 3.16.147.127
 ssh root@172.31.32.48
 exit
+ls
+cd name
+cd nme
+ls
+cd ..
+git clone https://github.com/Rasmi20/devsam.git
+mkdir ttt
+
+git clone https://github.com/Rasmi20/devsam.git
+git checkout -b dsp
+touch Jenkinsfile
+vi Jenkinsfile
+add git Jenkinsfile
+git add Jenkinsfile
+git status
+git add-A
+git add -A
+git status
+git commit -m "Jenkinsfile"
+git push -f origin dsp
+git push -f origin master
+git commit -m "Jenkinsfile"
+git checkout master
+git push -f origin master
+git checkout master
+git commit -m "Jenkinsfile"
+git push -f origin master
+cd ..
+ls
+cd ttt/
+touch Jenkinsfile
+vi Jenkinsfile
+git add -A
+git status
+git commit -m "Jenkinsfile"
+git push -f origin master
+git checkout dsp
+git commit -m "Jenkinsfile"
+git push -f origin dsp
