@@ -25,10 +25,11 @@
 "1	LINE	0
 		public static void main (string[] args){
 ""-	CHAR	0
-	d
+	0
 
 # File marks:
 '0  4  4  ~/ttt/Jenkinsfile
+<<<<<<< HEAD
 '1  1  16  ~/nme/test.java
 '2  3  30  ~/git/sample.java
 '3  2  26  ~/git/sample.java
@@ -37,11 +38,36 @@
 '6  5  0  ~/samp.txt
 '7  6  0  ~/summa.txt
 '8  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+=======
+'1  1  23  ~/mult/Jenkinsfile
+'2  4  1  ~/pipe/testthree.java
+'3  3  14  ~/pipe/testtwo.java
+'4  1  0  ~/pipe/testtwo.java
+'5  3  33  ~/pipe/testone.java
+'6  5  17  ~/nme/test.java
+'7  1  0  ~/nme/test.java
+'8  8  33  ~/nme/test.java
+'9  6  18  ~/nme/test.java
+>>>>>>> feature
 
 # Jumplist (newest first):
 -'  4  4  ~/ttt/Jenkinsfile
 -'  1  0  ~/ttt/Jenkinsfile
+<<<<<<< HEAD
 -'  1  16  ~/nme/test.java
+=======
+-'  1  23  ~/mult/Jenkinsfile
+-'  4  1  ~/pipe/testthree.java
+-'  1  0  ~/pipe/testthree.java
+-'  3  14  ~/pipe/testtwo.java
+-'  1  0  ~/pipe/testtwo.java
+-'  3  33  ~/pipe/testone.java
+-'  1  0  ~/pipe/testone.java
+-'  5  17  ~/nme/test.java
+-'  1  0  ~/nme/test.java
+-'  8  33  ~/nme/test.java
+-'  6  18  ~/nme/test.java
+>>>>>>> feature
 -'  3  30  ~/git/sample.java
 -'  1  0  ~/git/sample.java
 -'  2  26  ~/git/sample.java
@@ -128,16 +154,6 @@
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
 -'  5  0  ~/samp.txt
 -'  1  0  ~/samp.txt
--'  6  0  ~/summa.txt
--'  1  0  ~/summa.txt
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  6  0  ~/summa.txt
--'  1  0  ~/summa.txt
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
--'  5  0  ~/samp.txt
--'  3  30  ~/git/sample.java
 
 # History of marks within files (newest to oldest):
 
@@ -147,13 +163,53 @@
 	.	4	0
 	+	4	0
 
+<<<<<<< HEAD
+=======
+> ~/mult/Jenkinsfile
+	"	1	23
+	^	1	24
+	.	1	23
+	+	10	0
+	+	1	13
+	+	1	23
+
+> ~/pipe/testthree.java
+	"	4	1
+	^	4	2
+	.	3	35
+	+	5	0
+	+	1	21
+	+	3	35
+
+> ~/pipe/testtwo.java
+	"	3	14
+	^	3	15
+	.	3	36
+	+	5	1
+	+	1	19
+	+	3	33
+	+	1	17
+	+	3	36
+
+> ~/pipe/testone.java
+	"	3	33
+	^	3	34
+	.	3	33
+	+	5	0
+	+	1	19
+	+	3	33
+
+>>>>>>> feature
 > ~/nme/test.java
-	"	1	16
-	^	1	17
-	.	2	0
+	"	5	17
+	^	5	18
+	.	5	17
 	+	10	0
 	+	1	17
 	+	2	0
+	+	5	18
+	+	8	33
+	+	5	17
 
 > ~/git/sample.java
 	"	3	30
